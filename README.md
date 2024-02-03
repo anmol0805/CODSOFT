@@ -82,5 +82,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Twitter](https://twitter.com/_thakuranmol_)
 
 ---
-
-Feel free to modify and expand upon this template to suit your specific preferences and additional information you may want to include.

@@ -1,14 +1,7 @@
 # Personal-Portfolio
 Certainly! Below is a README template for your personal portfolio website. Feel free to customize it according to your specific details.
-
 ---
-
 # Anmol Thakur's Portfolio
-
-![GitHub repo size](https://img.shields.io/github/repo-size/anmol0805/anmol-portfolio)
-![GitHub issues](https://img.shields.io/github/issues/anmol0805/anmol-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/anmol0805/anmol-portfolio)
-![GitHub forks](https://img.shields.io/github/forks/anmol0805/anmol-portfolio)
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and provides information about me.
 

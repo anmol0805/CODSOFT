@@ -1,5 +1,4 @@
 # Personal-Portfolio
-Certainly! Below is a README template for your personal portfolio website. Feel free to customize it according to your specific details.
 ---
 # Anmol Thakur's Portfolio
 

@@ -1,6 +1,8 @@
-# Personal-Portfolio
+#CodSoft Internship
 ---
-# Anmol Thakur's Portfolio
+# Personal-Portfolio - Task 1
+---
+# Anmol's Portfolio
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and provides information about me.
 

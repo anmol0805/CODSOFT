@@ -1,6 +1,6 @@
-#CodSoft Internship
+##CodSoft Internship
 ---
-# Personal-Portfolio - Task 1
+## Personal-Portfolio - Task 1
 ---
 # Anmol's Portfolio
 
@@ -75,6 +75,42 @@ If you find any issues or have suggestions for improvement, feel free to open an
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---------
+---------
+## Digital Performance Solutions Landing Page - Task 2
+
+Welcome to the Digital Performance Solutions landing page project! This project is a part of the CodeSoft virtual internship, where I've designed and implemented a modern and responsive landing page using HTML and CSS.
+
+## Overview
+
+This landing page project demonstrates my skills in front-end web development, including:
+
+- HTML structure for content layout
+- CSS styling for visual design and responsiveness
+- Usage of CSS animations for enhanced user experience
+- Integration of images and other media assets
+
+## Features
+
+- **Responsive Design:** The landing page is designed to adapt to various screen sizes, ensuring a consistent experience across devices.
+- **Interactive Elements:** Interactive navigation menu and buttons enhance user engagement and navigation.
+- **Modern Styling:** Utilization of modern design trends and techniques to create an aesthetically pleasing interface.
+- **Animation Effects:** Implementation of animation effects using GSAP library for a dynamic user experience.
+
+
+## Usage
+
+- To view the landing page locally, simply clone this repository to your local machine and open `index.html` in your preferred web browser.
+
+## Credits
+- **Images sourced from Unsplash.**
+- **GSAP animation library: GSAP.**
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgements
+Special thanks to CodeSoft for providing the virtual internship opportunity and to all the contributors for their support and feedback.
 
 ## Contact
 

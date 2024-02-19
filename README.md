@@ -112,6 +112,65 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgements
 Special thanks to CodeSoft for providing the virtual internship opportunity and to all the contributors for their support and feedback.
 
+---
+---
+
+# Simple Calculator
+
+This is a basic web-based calculator application built using HTML, CSS, and JavaScript.
+
+## Table of Contents
+
+- [Simple Calculator](#simple-calculator)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+## Introduction
+
+The Simple Calculator is a web application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a straightforward and user-friendly interface for quick calculations.
+
+## Demo
+
+![Calculator Demo](demo.gif)
+
+## Features
+
+- **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
+- **Clear and Backspace**: Clearing the entire input or removing the last entered digit.
+- **Percentage Calculation**: Quickly calculate percentages.
+- **Responsive Design**: Works seamlessly across different screen sizes.
+
+## Installation
+
+No installation is required to use the Simple Calculator. Simply open the `index.html` file in your web browser to start using the calculator.
+
+## Usage
+
+To use the calculator, simply click on the buttons representing numbers or operators to perform calculations. You can clear the input using the "C" button or remove the last entered digit using the "CE" button. The "=" button computes the result of the entered expression.
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Here's how you can get started:
+
+1. Fork the repository to your GitHub account.
+2. Clone the forked repository to your local machine.
+
+Make your changes and commit them to your forked repository.
+Push your changes to your forked repository.
+Open a pull request on the original repository.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+This README provides comprehensive information about your Simple Calculator project, including its purpose, features, installation instructions, usage guidelines, contribution guidelines, and licensing details.
+
+
 ## Contact
 
 - Email: anmolt646@gmail.com

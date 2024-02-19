@@ -115,7 +115,7 @@ Special thanks to CodeSoft for providing the virtual internship opportunity and 
 ---
 ---
 
-# Simple Calculator
+# Simple Calculator - Task 3
 
 This is a basic web-based calculator application built using HTML, CSS, and JavaScript.
 
